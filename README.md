@@ -87,3 +87,17 @@ Allow for self-enablement, even in teams or repositories that have a high priori
 Identify your metrics early and write your reports early so that measurement and  feedback can be executed immediately and you can start seeing value out of the advanced security rollout.
 
 If we really want to involve developers in the appsec process and make them feel like they’re a part of it rather than just having this tool forced on them, then deploying this self-empowered approach to rolling out appsec tools will make them part of the process and make them more appsec aware.  
+
+### Helpful links:
+ - Enablement automation tools:
+   - https://github.com/NickLiffen/ghas-enablement
+ - Sample pipeline:
+   - https://github.com/kllund/sample-pipeline-files
+ - Policy-as-code:
+   - https://github.com/GeekMasher/advanced-security-compliance
+ - Report generation:
+   - https://github.com/peter-murray/github-security-report-action
+ - Jira integration:
+   - https://github.com/cmboling/codescanning-jira-integration
+ - Secret Scanning Webhook:
+   - https://github.com/NickLiffen/GSSAR
